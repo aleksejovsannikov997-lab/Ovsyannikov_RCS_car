@@ -29,7 +29,7 @@
 
 > ## Скриншоты с постановкой задачи
 
-![Постановка задачи](KKRqYVYQs7pKwJN5fxEP5RGPO-sZTqsSZstyrMLAa2d0Gf2VOLDFzvDZoJobdDpKCv0EeC3m6BclwqNXEsuVIzVrl.jpg)
+![Постановка задачи](4A7WC6vKlhiYlZU3uCWb1KkXfTjKDcKDUHf701PlJGCwApck1OmutGO6O1DmBLr92op0AWdDAc4j6iw4m_Zp_N0n.jpg)
 
 ---
 

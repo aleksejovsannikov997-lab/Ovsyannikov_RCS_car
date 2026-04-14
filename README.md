@@ -27,7 +27,7 @@
 
 ## Скриншоты с постановкой задачи
 
-> KKRqYVYQs7pKwJN5fxEP5RGP0-sZTqSZStyrMLAa2d0Gf2VOLDFzvDZoJObdDpKCv0EeC3m6BcIwqNxESuVlzVrI.jpg
+> ![Постановка задачи](KKRqVYYQs7pKwJN5fxEP5RGPO-sZTqSZTsyrMLAa2d0Gf2VOLDFzvDZoJobDpKcVoEeC3m6BciwqNxESuVIzVrl.jpg)
 
 ---
 

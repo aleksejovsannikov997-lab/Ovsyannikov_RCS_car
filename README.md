@@ -38,7 +38,7 @@
 ---
 
 ## Настройки частоты, источника излучения
-![Постановка задачи]()
+![Постановка задачи](IiQLQAfgfGzqg_ToIP1zmlR90bmnvfnkXaIiwG3WtrTkd6GM6eoCr5jtiILgNNp4F2yxWMia0CI4LTr8T-DYELb5.jpg)
 ![Постановка задачи]()
 ![Постановка задачи]()
 

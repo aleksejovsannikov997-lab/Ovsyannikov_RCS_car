@@ -40,7 +40,7 @@
 ## Настройки частоты, источника излучения
 ![Постановка задачи](IiQLQAfgfGzqg_ToIP1zmlR90bmnvfnkXaIiwG3WtrTkd6GM6eoCr5jtiILgNNp4F2yxWMia0CI4LTr8T-DYELb5.jpg)
 ![Постановка задачи](iSPS4qwTjEkgNFRNRnrfMF0VMEZ0SMkphkq0TyDcyuY_x3hfr2Ga72ZdrK9EcEn2afKGpoXMWpMbVqRY-J2tO0QR.jpg)
-![Постановка задачи]()
+![Постановка задачи](otTwM1hn7MgLZp4szoDpIN2NOzUjuCOBvEf8h1pyXlPjxH4j78APalD_fcuX5-A-lGzayqSspUCo4F2JRLpZljOi.jpg)
 
 ---
 
@@ -76,12 +76,10 @@
 ## Диаграммы рассеяния ЭМ волны на автомобиле
 
 ### Вертикальная плоскость
-
-> *[Вставьте сюда диаграмму рассеяния в вертикальной плоскости]*
+![Постановка задачи]()
 
 ### Горизонтальная плоскость
-
-> *[Вставьте сюда диаграмму рассеяния в горизонтальной плоскости]*
+![Постановка задачи]()
 
 ---
 

@@ -32,7 +32,8 @@
 ---
 
 ## Граничные условия
-![Постановка задачи](KKRqYVYQs7pKwJN5fxEP5RGPO-sZTqsSZstyrMLAa2d0Gf2VOLDFzvDZoJobdDpKCv0EeC3m6BclwqNXEsuVIzVrl.jpg)
+![Постановка задачи](x-RbIccNgFgDB8m3gD8gLTz4RuxDy7sXsKcNvYZRHr_aq_eLgiULxUU273hWv-ai61L7gdw537jt3KGlRTl_RrPL.jpg)
+![Постановка задачи]()
 
 ---
 

@@ -33,13 +33,12 @@
 
 ## Граничные условия
 ![Постановка задачи](x-RbIccNgFgDB8m3gD8gLTz4RuxDy7sXsKcNvYZRHr_aq_eLgiULxUU273hWv-ai61L7gdw537jt3KGlRTl_RrPL.jpg)
-![Постановка задачи]()
+![Постановка задачи](Ju9GeswXw9WssE3JSw6jH6DP15njuPs7OqnusCOFsosDJ6RCKCHoO6ILH2_2w71ioCNU_S2vNPmqt-bhrqovh2uB.jpg)
 
 ---
 
 ## Настройки частоты, источника излучения
 
-> *[Вставьте сюда скриншот настроек из отчёта]*
 
 ---
 

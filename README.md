@@ -32,8 +32,7 @@
 ---
 
 ## Граничные условия
-
-> *[Вставьте сюда скриншот граничных условий из отчёта]*
+![Постановка задачи](KKRqYVYQs7pKwJN5fxEP5RGPO-sZTqsSZstyrMLAa2d0Gf2VOLDFzvDZoJobdDpKCv0EeC3m6BclwqNXEsuVIzVrl.jpg)
 
 ---
 

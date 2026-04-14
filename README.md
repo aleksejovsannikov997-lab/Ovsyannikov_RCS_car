@@ -79,7 +79,7 @@
 ![Постановка задачи](mEMIvDeiTbKEhLp5LUz-uYHabuKzrkTwcUam51zJqyx2DougmK91CE61Wr6vtvvN8k21uobPkhQ76FcoJxsdOXUG.jpg)
 
 ### Горизонтальная плоскость
-![Постановка задачи]()
+![Постановка задачи](hLHxej7kqNOc3KM0XaLQbLrZYZ6D9sr0zZxntV1Ss8RgcuU_BAYRh0_wPrK7PwI7mJbEDErF-F7oPbY29-yCzxuB.jpg)
 
 ---
 
@@ -87,7 +87,7 @@
 
 Файл проекта `Car_RCS.aedtz` слишком большой для GitHub (2.8 ГБ), поэтому загружен на Google Диск:
 
-[📥 Скачать Car_RCS.aedtz](ВСТАВЬТЕ_ВАШУ_ССЫЛКУ_СЮДА)
+[📥 Скачать Car_RCS.aedtz](Car_RCS.aedtz](https://drive.google.com/file/d/1oZLzUxTX3-sx4whSPHos_N8fktx1YvrG/view?usp=sharing)
 
 ---
 
